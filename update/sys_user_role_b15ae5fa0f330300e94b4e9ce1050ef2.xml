@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_152098_claims.user</name>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-25 08:57:36</sys_created_on>
+        <sys_id>b15ae5fa0f330300e94b4e9ce1050ef2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_152098_claims.user</sys_name>
+        <sys_package display_value="Claims" source="x_152098_claims">549969720f330300e94b4e9ce1050ea1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claims">549969720f330300e94b4e9ce1050ea1</sys_scope>
+        <sys_update_name>sys_user_role_b15ae5fa0f330300e94b4e9ce1050ef2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-25 08:57:36</sys_updated_on>
+    </sys_user_role>
+</record_update>

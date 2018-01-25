@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_152098_claims.user" name="x_152098_claims.user">b15ae5fa0f330300e94b4e9ce1050ef2</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-25 08:57:37</sys_created_on>
+        <sys_id>bf6a29fa0f330300e94b4e9ce1050ec4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b15ae5fa0f330300e94b4e9ce1050ef2</sys_name>
+        <sys_package display_value="Claims" source="x_152098_claims">549969720f330300e94b4e9ce1050ea1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Claims">549969720f330300e94b4e9ce1050ea1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bf6a29fa0f330300e94b4e9ce1050ec4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-25 08:57:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
