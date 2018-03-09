@@ -28,7 +28,7 @@
         <sys_updated_on>2018-01-25 09:19:59</sys_updated_on>
         <template/>
         <trackable>true</trackable>
-        <user_role display_value="x_152098_claims.user" name="x_152098_claims.user">b15ae5fa0f330300e94b4e9ce1050ef2</user_role>
+        <user_role/>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
